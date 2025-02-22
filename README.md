@@ -6,7 +6,7 @@ This repository contains the infrastructure and CI/CD pipeline setup for a **Nod
 
 ---
 
-## 📌 **Architecture**
+## **Architecture**
 
 ### **Key Components**
 
@@ -23,7 +23,7 @@ This repository contains the infrastructure and CI/CD pipeline setup for a **Nod
 
 ---
 
-## 📂 **Repository Structure**
+## **Repository Structure**
 
 ```plaintext
 ├── .github/workflows/       # CI/CD Pipelines
@@ -63,7 +63,7 @@ This repository contains the infrastructure and CI/CD pipeline setup for a **Nod
 
 ---
 
-## 📜 **Workflow Diagram**
+## **Workflow Diagram**
 
 ```plaintext
 [ Developer ] --> [ GitHub Repo ] --> [ GitHub Actions ] --> [ AWS ECS ]
@@ -74,7 +74,7 @@ This repository contains the infrastructure and CI/CD pipeline setup for a **Nod
 
 ---
 
-## 📜 **CI/CD Pipeline Diagram**
+## **CI/CD Pipeline Diagram**
 
 ```plaintext
 [ Code Commit ] --> [ GitHub Actions ] --> [ Lint & Test ] --> [ Build Docker Image ] --> [ Security Scan ] --> [ Deploy to ECS ]
@@ -82,7 +82,7 @@ This repository contains the infrastructure and CI/CD pipeline setup for a **Nod
 
 ---
 
-## 🛠 **Setup & Deployment**
+## **Setup & Deployment**
 
 1. **Clone the Repository:**
    ```sh
@@ -103,11 +103,11 @@ This repository contains the infrastructure and CI/CD pipeline setup for a **Nod
 
 ---
 
-## 📌 **Next Steps**
+## **Next Steps**
 
 - Implement the architecture in AWS.
 - Test API endpoints and security configurations.
 - Optimize infrastructure costs and performance.
 
-*Stay tuned for updates!* 🚀
+*Thank You !* 
 
