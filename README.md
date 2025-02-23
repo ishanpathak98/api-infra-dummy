@@ -87,7 +87,7 @@ This repository contains the infrastructure and CI/CD pipeline setup for a **Nod
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/nodejs-api-architecture.git
+   git clone [https://github.com/ishanpathak98/api-infra-dummy.git]
    cd nodejs-api-architecture
    ```
 2. **Initialize Terraform:**
