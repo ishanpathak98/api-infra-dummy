@@ -56,12 +56,8 @@ This repository contains the infrastructure and CI/CD pipeline setup for a **Nod
 │   ├── backend.tf         
 │   ├── provider.tf        # Terraform Provider Configuration
 │   ├── variables.tf       # Global Terraform Variables
-├── src/                   
-├── tests/                 
-├── docs/                  
 ├── Dockerfile             
 ├── docker-compose.yml     
-├── package.json           
 ├── README.md              
 └── sonar-project.properties 
 ```
