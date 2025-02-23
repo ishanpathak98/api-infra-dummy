@@ -1,8 +1,3 @@
-# api-infra-dummy
-
-# Diagram
-![diagram](image.svg)
-
 # Node.js API - Infrastructure and CI/CD Setup
 
 ## Overview
@@ -10,6 +5,11 @@
 This repository contains the infrastructure and CI/CD pipeline setup for a **Node.js API** that generates dummy data. The API allows users to specify the fields (first name, last name, email, phone number, etc.) and the number of records required. The system is designed with **high availability, security, and automated deployments**.
 
 ---
+
+
+# Diagram
+![diagram](image.svg)
+
 
 ## **Architecture**
 
