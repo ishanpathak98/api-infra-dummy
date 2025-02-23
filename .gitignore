@@ -1,0 +1,41 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+log/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+coverage/
+.cache/
+.vscode/
+.DS_Store
+
+# Terraform files
+*.tfstate
+*.tfstate.backup
+.terraform/
+terraform.tfvars
+
+# Docker
+docker-compose.override.yml
+docker/data/
+docker/logs/
+
+# SonarQube
+.sonarqube/
+sonar-report.json
+
+# Ignore AWS credentials
+.aws/
+.aws-sam/
